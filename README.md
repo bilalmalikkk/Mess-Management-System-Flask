@@ -1,7 +1,7 @@
 
 # Mess Management System in Flask
 
-![Mess Management System](/static/img/logo.png)
+![Mess Management System]
 
 The Mess Management System is a web application built using Flask, a Python web framework, to manage mess-related tasks and activities efficiently.
 
